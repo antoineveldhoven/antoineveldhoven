@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=antoineveldhoven)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=antoineveldhoven)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/antoineveldhoven/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
